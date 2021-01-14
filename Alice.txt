@@ -1,1 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. Putting some more text.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Putting some more text. Add some text to test rebase.
